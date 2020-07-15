@@ -1,7 +1,7 @@
 # lojavirtualsmarty
 Loja Virtual feita com Smarty
 
-Modelo MVC, com URL amigavei e Páginas dinâmicas.
+Modelo MVC, com URL amigáveis e Páginas dinâmicas.
 
 Sem carrinho de compras e sem checkout.
 
