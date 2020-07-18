@@ -11,7 +11,7 @@ const SITE_EMAIL_ADM = "maurobio23@gmail.com";
 //Informações do Banco de Dados
 const BD_HOST = "localhost";
 const BD_USER = "root";
-const BD_SENHA = "jardim197";
+const BD_SENHA = "";
 const BD_BANCO = "lojavirtual";
 const BD_PREFIX = "";
 
